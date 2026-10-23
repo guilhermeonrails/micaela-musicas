@@ -1,0 +1,8 @@
+title: Como É Grande o Meu Amor Por Você
+artist: Roberto Carlos
+key: G
+notes: lenta 75 bpm. R5. revisar
+
+[Verse] repeat
+| G | G7 | C | Cm |
+| G | Em | Am7 | D7 |

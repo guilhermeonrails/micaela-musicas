@@ -1,0 +1,11 @@
+title: A Thousand Miles
+artist: Vanessa Carlton
+key: C
+notes: rapida 95 bpm. Branquelas. original em B; versao simplificada em C. revisar
+
+[Intro]
+| C | F | G | G |
+
+[Verse] repeat
+| C | F | G | C |
+| F | G | Am | G |

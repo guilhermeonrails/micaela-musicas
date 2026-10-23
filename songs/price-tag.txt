@@ -1,0 +1,12 @@
+title: Price Tag
+artist: Jessie J
+key: C
+notes: rapida 75 bpm. original em F; simplificado em C (C Em Am F). revisar
+
+[Verse] repeat
+| C | Em | Am | F |
+| C | Em | Am | F |
+
+[Chorus]
+| C | Em | Am | F |
+| C | Em | Am | F |

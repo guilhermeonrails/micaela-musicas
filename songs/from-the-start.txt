@@ -1,6 +1,6 @@
 title: From the star
 artist: Laufey
-key: Am
+key: C
 notes: revisar
 
 [Verse] repeat

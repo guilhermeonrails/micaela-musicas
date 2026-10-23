@@ -1,0 +1,14 @@
+title: Lovely
+artist: Billie Eilish & Khalid
+key: G
+notes: lenta 75 bpm. formas simplificadas em Em (relativo de G). revisar
+
+[Intro]
+| Em | G | D | D |
+
+[Verse] repeat
+| Em | G | D | D |
+| Em | G | D | D |
+
+[Chorus]
+| C | Em | Bm | Bm |

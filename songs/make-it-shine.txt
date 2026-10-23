@@ -1,0 +1,12 @@
+title: Make It Shine
+artist: Victorious
+key: G
+notes: rapida 95 bpm. original em F (I V vi IV); aqui em G. revisar
+
+[Verse] repeat
+| G | D | Em | C |
+| G | D | Em | C |
+
+[Chorus]
+| G | D | Em | C |
+| G | D | Em | C |

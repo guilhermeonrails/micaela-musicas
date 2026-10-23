@@ -1,0 +1,13 @@
+title: Can't Help Falling in Love
+artist: Elvis Presley
+key: G
+notes: lenta 75 bpm. revisar
+
+[Verse]
+| G | Bm | Em | C |
+| G | D | G | D |
+
+[Chorus]
+| Em | B7 | Em | B7 |
+| C | D | G | D |
+| G |

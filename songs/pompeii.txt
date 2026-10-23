@@ -1,0 +1,12 @@
+title: Pompeii
+artist: Bastille
+key: G
+notes: rapida 95 bpm. formas em G (C G Em D); original em A, capo 2. revisar
+
+[Verse] repeat
+| C | G | Em | D |
+| C | G | Em | D |
+
+[Chorus]
+| C | G | Em | D |
+| C | G | Em | D |

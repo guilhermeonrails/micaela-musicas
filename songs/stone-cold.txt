@@ -1,0 +1,15 @@
+title: Stone Cold
+artist: Demi Lovato
+key: G
+notes: lenta 75 bpm. formas simplificadas (Em G D); no original usa capo 1. revisar
+
+[Intro]
+| Em | Gm | Em | G |
+
+[Verse] repeat
+| Em | G | D | D |
+| Em | G | D | Em |
+
+[Chorus]
+| C | G | D | Em |
+| C | Cm | G | D |

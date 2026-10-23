@@ -1,0 +1,15 @@
+title: Ride
+artist: Twenty One Pilots
+key: C
+notes: lenta 75 bpm. R23 R147. original em F#; transposto para C (simplificado). revisar
+
+[Intro]
+| C | Dm | Am | F |
+
+[Verse] repeat
+| C | Dm | Am | F |
+| C | Dm | Am | F |
+
+[Chorus]
+| F | G | Am | C |
+| F | G | Am | C |

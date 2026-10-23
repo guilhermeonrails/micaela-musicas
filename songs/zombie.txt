@@ -1,0 +1,12 @@
+title: Zombie
+artist: The Cranberries
+key: Em
+notes: lenta 75 bpm. R5. progressao confirmada (Em C G D)
+
+[Verse] repeat
+| Em | C | G | D |
+| Em | C | G | D |
+
+[Chorus]
+| Em | C | G | D |
+| Em | C | G | D |

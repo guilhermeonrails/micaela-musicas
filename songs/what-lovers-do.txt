@@ -1,0 +1,12 @@
+title: What Lovers Do
+artist: Maroon 5
+key: D
+notes: rapida 95 bpm. original em Eb; simplificado em D. revisar
+
+[Verse] repeat
+| D | F#m | E | A |
+| D | F#m | E | A |
+
+[Chorus]
+| D | F#m | E | A |
+| D | F#m | E | D |

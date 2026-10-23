@@ -1,0 +1,12 @@
+title: What Was I Made For?
+artist: Billie Eilish
+key: C
+notes: lenta 75 bpm. revisar
+
+[Verse] repeat
+| C | G/B | Am | F |
+| C | G/B | Am | F |
+
+[Chorus]
+| F | C | G | Am |
+| F | C | G | G |

@@ -1,0 +1,14 @@
+title: Beauty and a Beat
+artist: Justin Bieber
+key: C
+notes: rapida 95 bpm. simplificado em C (F Am G C). revisar
+
+[Intro]
+| F | Am | G | C |
+
+[Verse] repeat
+| F | Am | G | C |
+| F | Am | G | C |
+
+[Bridge]
+| F | Dm7 | F | G7 |
