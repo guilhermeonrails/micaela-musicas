@@ -1,9 +1,8 @@
 title: Vou Deixar
 artist: Skank
-key: D
-notes: revisar (acordes confirmados: D, F#7, G, Gm, Bm, A; ordem aproximada)
+key: C
+notes: revisar
 
 [Verse] repeat
-| D | F#7 | G | Gm6 |
-| D | F#7 | G | Gm6 |
-
+| C | E7 | F | Fm6 |
+| C | E7 | F | Fm6 |

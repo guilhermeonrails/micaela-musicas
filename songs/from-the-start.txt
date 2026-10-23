@@ -1,0 +1,10 @@
+title: From the star
+artist: Laufey
+key: Am
+notes: revisar
+
+[Verse] repeat
+| Dm | G7 | Cmaj | G |
+
+| Dm | G7 | Em | A |
+| Dm | Dm | g7 | g7 |

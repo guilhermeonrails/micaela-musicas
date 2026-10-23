@@ -4,9 +4,5 @@ key: C
 notes: solinho torto. revisar (tom confirmado: C; progressao aproximada)
 
 [Verse] repeat
-| C | G/B | Am | F |
-| C | G/B | Am | F |
+| D | Dm | C | C |
 
-[Chorus]
-| F | C/E | Dm | G |
-| F | C/E | Dm | G |

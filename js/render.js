@@ -10,7 +10,7 @@ const acc = s => s.replace("#", "♯").replace(/b$/, "♭");
 
 function chordEl(src) {
   const c = el("span", "chord");
-  const [main, bass] = src.split("/");
+  const [main, bass] = src.replace(/^[a-g]/, ch => ch.toUpperCase()).split("/");
   const m = main.match(/^([A-G])([#b]?)(m(?!a))?(.*)$/);
   if (!m) { c.textContent = src; return c; }
   c.append(m[1]);
@@ -21,7 +21,7 @@ function chordEl(src) {
     c.append(el("span", /^ma/.test(q) ? "q ma" : "q", q));
   }
   if (bass) {
-    c.append(el("span", "sl", "/"), el("span", "b", bass[0] + (bass[1] ? (bass[1] === "#" ? "\u266F" : "\u266D") : "")));
+    c.append(el("span", "sl", "/"), el("span", "b", bass[0].toUpperCase() + (bass[1] ? (bass[1] === "#" ? "\u266F" : "\u266D") : "")));
   }
   return c;
 }
