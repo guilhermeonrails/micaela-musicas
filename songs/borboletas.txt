@@ -1,0 +1,12 @@
+title: Borboletas
+artist: Victor & Leo
+key: Bm
+notes: revisar (intro em Bm confirmada)
+
+[Verse] repeat
+| Bm | G | D | A |
+| Bm | G | D | A |
+
+[Chorus]
+| G | A | D | Bm |
+| G | A | D | D |

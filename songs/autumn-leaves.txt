@@ -1,0 +1,13 @@
+title: Autumn Leaves
+artist: Joseph Kosma
+key: G
+notes: revisar
+
+[A] repeat
+| Am7 | D7 | Gma7 | Cma7 |
+| F#m7b5 | B7 | Em | Em |
+
+[B]
+| F#m7b5 | B7 | Em | Em |
+| Am7 | D7 | Gma7 | Cma7 |
+| F#m7b5 | B7 | Em | E7 |

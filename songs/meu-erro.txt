@@ -1,0 +1,14 @@
+title: Meu Erro
+artist: Os Paralamas do Sucesso
+key: A
+notes: revisar (acordes confirmados: A, E, D, Dm7, C#m, F#m; ordem aproximada)
+
+[Intro]
+| A | E | D | Dm7 |
+
+[Verse] repeat
+| A | E | D | A |
+| A | E | D | A |
+
+[Chorus]
+| F#m | C#m | D | E |

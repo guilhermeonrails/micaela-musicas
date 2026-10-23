@@ -1,0 +1,12 @@
+title: Evidências
+artist: Chitãozinho & Xororó
+key: G
+notes: revisar
+
+[Verse] repeat
+| G | Em | Am7 | D7 |
+| G | Em | Am7 | D7 |
+
+[Chorus]
+| C | D | G | Em |
+| C | D | G | G |

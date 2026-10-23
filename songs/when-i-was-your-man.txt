@@ -1,0 +1,12 @@
+title: When I Was Your Man
+artist: Bruno Mars
+key: C
+notes: solinho torto. revisar (tom confirmado: C; progressao aproximada)
+
+[Verse] repeat
+| C | G/B | Am | F |
+| C | G/B | Am | F |
+
+[Chorus]
+| F | C/E | Dm | G |
+| F | C/E | Dm | G |

@@ -1,0 +1,11 @@
+title: Baby
+artist: Caetano Veloso
+key: E
+notes: revisar
+
+[Verse] repeat
+| E | C#m | F#m | B7 |
+| E | C#m | F#m | B7 |
+
+[Chorus]
+| A | B7 | E | E |

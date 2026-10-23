@@ -1,0 +1,9 @@
+title: Hey Brother
+artist: Avicii
+key: Em
+capo: 3
+notes: revisar
+
+[Chorus]
+| Em | G | D | Em |
+| Em | G | D | Em |

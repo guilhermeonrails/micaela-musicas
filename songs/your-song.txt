@@ -1,0 +1,28 @@
+title: Your Song
+artist: Elton John
+key: Eb
+capo: 3
+time: 4/4
+notes: referencia (fora do index)
+
+[Intro]
+| C | F/C | G/C | F/C |
+
+[Verse] repeat
+| C | Fma7 | G/B | Em |
+| Am | Am/G | Am/F# | Fma7 |
+| C/G | G | E7 | Am |
+| C | Dm7 | F | G :1 |
+| C :2 |
+
+[Chorus] repeat
+| G/B | Am | Dm | F |
+| Am | Am/G | Am/F# | Fma7 |
+| C/G | F | F | G D.C. |
+
+[Coda]
+| Am | Am/G | Am/F# | Fma7 |
+| C/G | F | F |
+
+[Outro]
+| C | F/C | G/C | F/C | C/G fermata |

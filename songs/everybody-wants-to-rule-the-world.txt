@@ -1,0 +1,12 @@
+title: Everybody Wants to Rule the World
+artist: Tears for Fears
+key: D
+notes: revisar
+
+[Verse] repeat
+| D | A | Bm | G |
+| D | A | Bm | G |
+
+[Chorus]
+| G | A | D | D |
+| G | A | D | A |

@@ -1,0 +1,12 @@
+title: Velha Infância
+artist: Tribalistas
+key: F#m
+notes: revisar (acordes confirmados: F#m, Bm, E, A; ordem aproximada)
+
+[Verse] repeat
+| F#m | Bm | E | A |
+| F#m | Bm | E | A |
+
+[Chorus]
+| Bm | E | A | F#m |
+| Bm | E | F#m | F#m |

@@ -1,0 +1,16 @@
+title: Paradise
+artist: Coldplay
+key: Dm
+notes: revisar
+
+[Verse] repeat
+| Dm | Bb | F | C |
+
+[Pre-Chorus]
+| Gm | Bb | F | C |
+| Gm | Bb | Bb | F |
+| C | C | Bb | F |
+| C | C  | 
+
+[Chorus] repeat
+| Gm | Bb | F | C |

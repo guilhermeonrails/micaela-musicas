@@ -1,0 +1,11 @@
+title: Just the Way You Are
+artist: Bruno Mars
+key: C
+notes: revisar
+
+[Verse] repeat
+| C | Am | F | C |
+| C | Am | F | C |
+
+[Chorus]
+| C | Am | F | C |

@@ -1,0 +1,10 @@
+title: Amei Te Ver
+artist: Tiago Iorc
+key: C
+notes: revisar
+
+[Verse] repeat
+| Am | Am | C | C |
+| Dm | Dm | F | G |
+
+

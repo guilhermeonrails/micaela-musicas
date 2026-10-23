@@ -1,0 +1,13 @@
+title: Tu Trevo
+artist: Anavitória
+key: G
+notes: revisar
+
+[Verse] repeat
+| C | F | C | Em |
+| Am | F | C | G |
+
+[Chorus]
+| Am | F | C | G |
+| Am | F | G | G |
+| F | F | 

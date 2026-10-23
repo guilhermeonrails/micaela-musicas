@@ -1,0 +1,6 @@
+title: Viva la Vida
+artist: Coldplay
+key: Ab
+
+[Intro]
+| C | D | G | Em |

@@ -1,0 +1,15 @@
+title: Somewhere Only We Know
+artist: Keane
+key: C
+notes: revisar
+
+[Verse] repeat
+| C | Em/B | Dm | F |
+| C | Em/B | Dm | F |
+
+[Pre-Chorus]
+| Am | Em | F | G |
+
+[Chorus]
+| Dm | G | Dm | G |
+| Dm | G | F | G C |

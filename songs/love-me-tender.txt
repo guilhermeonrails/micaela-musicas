@@ -1,0 +1,11 @@
+title: Love Me Tender
+artist: Elvis Presley
+key: D
+notes: 187 / 76 bpm. revisar
+
+[Verse] repeat
+| G | Am | D | G |
+
+[Chorus]
+| G D/F# | G7/F E |Am D | G  |
+| G F| Am | D | G |

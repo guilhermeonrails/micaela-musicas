@@ -1,0 +1,20 @@
+title: All of Me
+artist: John Legend
+key: Am
+notes: revisar
+
+[Verse] repeat
+| Am | F | C | G |
+| Am | F | C | G |
+
+[Pre Chorus]
+| Dm | Dm | C | G |
+| Dm | Dm | C | G |
+
+[Pre Chorus]
+
+| C | C | Am | Am |
+| Dm | Dm | G | G |
+
+[All of ]
+| Am | F | C | G |

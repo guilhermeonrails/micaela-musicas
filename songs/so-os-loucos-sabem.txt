@@ -1,0 +1,8 @@
+title: Só os Loucos Sabem
+artist: Charlie Brown Jr.
+key: E
+notes: revisar
+
+[Verse] repeat
+| E | E | C#m | A |
+

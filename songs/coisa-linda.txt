@@ -1,0 +1,8 @@
+title: Coisa Linda
+artist: Tiago Iorc
+key: C
+notes: revisar (acordes confirmados: C, F9, G4, Am7, C/G, F#m7b5; ordem aproximada)
+
+[Verse] repeat
+| F | C | G | Am |
+
