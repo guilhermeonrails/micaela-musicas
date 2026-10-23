@@ -5,7 +5,7 @@ let slugs = [];
 let current = 0;
 
 const load = slug => cache[slug] || (cache[slug] =
-  fetch("songs/" + slug + ".txt").then(r => r.text()).then(parseSong));
+  fetch("songs/" + slug + ".txt", { cache: "no-store" }).then(r => r.text()).then(parseSong));
 
 async function mount(i) {
   const slide = track.children[i];
@@ -36,7 +36,7 @@ function currentIndex() {
 }
 
 async function init() {
-  slugs = (await fetch("songs/index.txt").then(r => r.text())).split(/\r?\n/).map(s => s.trim()).filter(Boolean);
+  slugs = (await fetch("songs/index.txt", { cache: "no-store" }).then(r => r.text())).split(/\r?\n/).map(s => s.trim()).filter(Boolean);
   slugs.forEach(() => track.append(Object.assign(document.createElement("section"), { className: "slide" })));
 
   let start = 0;
